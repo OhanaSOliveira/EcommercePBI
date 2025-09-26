@@ -19,7 +19,8 @@ Dashboard de entregas e faturamento por mês, desenvolvido no Power BI.
 
 
 ## Visualização
-<img width="1293" height="737" alt="image" src="https://github.com/user-attachments/assets/25d3f35f-84b3-4835-a1d9-bb087921b6d4" />
+<img width="1178" height="659" alt="image" src="https://github.com/user-attachments/assets/579fd0f5-c86a-4c32-93a0-0b07f9743eaf" />
+
 <img width="1185" height="663" alt="image" src="https://github.com/user-attachments/assets/82bebc18-f8c5-48d5-96f2-5f1ff0247bf6" />
 
 
