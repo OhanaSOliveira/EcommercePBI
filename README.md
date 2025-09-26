@@ -4,7 +4,6 @@ Dashboard de entregas e faturamento por mês, desenvolvido no Power BI.
  Este projeto apresenta um dashboard interativo criado no Power BI para análise de entregas realizadas ao longo dos anos de 2016, 2017 e 2018 de forma interativa.
  Você seleciona o mês ou período que deseja fazer a análise de KPis. 
 
- Além dessa primeira tela de análise, teremos uma tela de análise para a quantidade de produtos e o tipo de cada um. Quais produtos são mais solicitados para cada período e quais produtos são mais vendidos em cada parte do país. 
 
 ## Indicadores tela inicial
 - **Faturamento por mês**
