@@ -12,8 +12,15 @@ Dashboard de entregas e faturamento por mês, desenvolvido no Power BI.
 - **Entregas dentro do prazo (%)**
 - **Total de pedidos e faturamento total**
 
+  ## Indicadores Segunda tela
+- **Faturamento por produto**
+- **Números de vendas por produto**
+
+
+
 ## Visualização
 <img width="1293" height="737" alt="image" src="https://github.com/user-attachments/assets/25d3f35f-84b3-4835-a1d9-bb087921b6d4" />
+<img width="1185" height="663" alt="image" src="https://github.com/user-attachments/assets/82bebc18-f8c5-48d5-96f2-5f1ff0247bf6" />
 
 
 ---
